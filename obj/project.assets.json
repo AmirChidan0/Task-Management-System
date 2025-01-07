@@ -4895,11 +4895,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\taskm.git\\TaskManagerAPI\\TaskManagerAPI.csproj",
+      "projectUniqueName": "D:\\New folder (5)\\Task-Management-System\\TaskManagerAPI.csproj",
       "projectName": "TaskManagerAPI",
-      "projectPath": "D:\\taskm.git\\TaskManagerAPI\\TaskManagerAPI.csproj",
+      "projectPath": "D:\\New folder (5)\\Task-Management-System\\TaskManagerAPI.csproj",
       "packagesPath": "C:\\Users\\BayanGP\\.nuget\\packages\\",
-      "outputPath": "D:\\taskm.git\\TaskManagerAPI\\obj\\",
+      "outputPath": "D:\\New folder (5)\\Task-Management-System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

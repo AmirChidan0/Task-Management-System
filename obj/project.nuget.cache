@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "t+0AB2rE+oo=",
+  "dgSpecHash": "ukaC8ER4+h8=",
   "success": true,
-  "projectFilePath": "D:\\taskm.git\\TaskManagerAPI\\TaskManagerAPI.csproj",
+  "projectFilePath": "D:\\New folder (5)\\Task-Management-System\\TaskManagerAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BayanGP\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\BayanGP\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
