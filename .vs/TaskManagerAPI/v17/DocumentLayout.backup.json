@@ -54,7 +54,8 @@
               "RelativeToolTip": "Controllers\\TaskController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAA7wEAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:35:46.897Z"
+              "WhenOpened": "2025-01-07T23:35:46.897Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,7 +65,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\New folder (5)\\Task-Management-System\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-07T23:35:25.864Z",
               "EditorCaption": ""
@@ -79,7 +80,8 @@
               "RelativeToolTip": "Services\\TaskService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:34:52.394Z"
+              "WhenOpened": "2025-01-07T23:34:52.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,7 +93,8 @@
               "RelativeToolTip": "Repositories\\TaskRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T23:33:54.066Z"
+              "WhenOpened": "2025-01-07T23:33:54.066Z",
+              "EditorCaption": ""
             }
           ]
         }
