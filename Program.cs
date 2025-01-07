@@ -1,11 +1,16 @@
 using TaskManagerAPI.Data;
 using Microsoft.EntityFrameworkCore;
+using TaskManagerAPI.Repositories;
+using TaskManagerAPI.Services;
 
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddScoped<ITaskRepository, TaskRepository>();
+builder.Services.AddScoped<ITaskService, TaskService>();
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
