@@ -1,0 +1,7 @@
+D:\taskm.git\TaskManagerAPI\obj\Debug\net9.0\TaskManagerAPI.csproj.AssemblyReference.cache
+D:\taskm.git\TaskManagerAPI\obj\Debug\net9.0\TaskManagerAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\taskm.git\TaskManagerAPI\obj\Debug\net9.0\TaskManagerAPI.AssemblyInfoInputs.cache
+D:\taskm.git\TaskManagerAPI\obj\Debug\net9.0\TaskManagerAPI.AssemblyInfo.cs
+D:\taskm.git\TaskManagerAPI\obj\Debug\net9.0\TaskManagerAPI.csproj.CoreCompileInputs.cache
+D:\taskm.git\TaskManagerAPI\obj\Debug\net9.0\TaskManagerAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\taskm.git\TaskManagerAPI\obj\Debug\net9.0\TaskManagerAPI.MvcApplicationPartsAssemblyInfo.cache
